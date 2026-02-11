@@ -1,7 +1,7 @@
 {
-  "url": "https://theblockchainbeast.github.io/tnn-ecosystem",
-  "name": "The Nobody Network",
-  "iconUrl": "https://raw.githubusercontent.com/TheBlockchainBeast/tnn-ecosystem/master/public/icon.png",
-  "termsOfUseUrl": "https://github.com/TheBlockchainBeast/tnn-ecosystem",
-  "privacyPolicyUrl": "https://github.com/TheBlockchainBeast/tnn-ecosystem"
+  "url": "https://github.com/ton-connect/demo-telegram-bot",
+  "name": "Demo telegram bot dApp",
+  "iconUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/apple-touch-icon.png",
+  "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/terms-of-use.txt",
+  "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/privacy-policy.txt"
 }
