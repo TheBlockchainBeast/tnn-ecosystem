@@ -2,8 +2,6 @@
 
 # dependencies
 /node_modules
-node_modules/
-tnn-app/
 /.pnp
 .pnp.*
 .yarn/*
@@ -41,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# leftover scaffold
+/tnn-app
